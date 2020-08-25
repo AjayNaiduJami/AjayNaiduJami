@@ -1,12 +1,7 @@
-### Hi there, I'm Ajay Jami 
+## Hi there 👋
 
+Myself **Ajay Jami** I am presently working as Sr. Systems Engineer/DevOps Engineer in [TechVedika][job] My major activities are on a CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like [AWS][aws] and [Azure][azure]. I certified in AWS Solutions Architect - Associate and has an experience as System Administrator
 
-## I'm a DevOps Engineer and System Admin
-
-- 🏢 I'm cureently employeed in [TechVedika][job]
-- 🔭 I’m currently working on a CI/CD solutions
-- 🌱 I’m currently learning monitoring solutions implementation
-- 🥅 2020 Goals: Self improvement and improve my learning curve
 
 ### Connect with me:
 
@@ -42,7 +37,8 @@
 
 ---
 
-
+[aws]: https://aws.amazon.com/
+[azure]: https://portal.azure.com/
 [job]: https://www.techvedika.com/
 [twitter]: https://twitter.com/AjayNaidu_J
 [facebook]: https://facebook.com/ajaynaidu.j
