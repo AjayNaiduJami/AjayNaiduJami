@@ -22,6 +22,7 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terraform" width="26px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
+<img align="left" alt="Azure DevOps" width="40px" src="https://www.saasplaza.com/sites/default/files/Azure-DevOps-3.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
 <img align="left" alt="ELK" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" />
@@ -31,9 +32,9 @@
 <img align="left" alt="Bash" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />
 <img align="left" alt="GIT" width="26px" src="https://img.icons8.com/color/72/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://simpleicons.org/icons/jenkins.svg" />
 <img align="left" alt="VMware" width="26px" src="https://img.icons8.com/color/72/vmware.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/console.png" />
+
 ---
 
 
