@@ -5,10 +5,10 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AjayNaiduJami | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="AjayNaiduJami | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AjayNaiduJami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AjayNaiduJami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,7 +36,7 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 
 ### Certifications and Badges:
 
-[<img align="left" alt="Cert" width="80px" src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" />][aws-cert]
+<a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" alt="aws-cert" width="80" height="80" /></a>
 
 <br />
 
@@ -44,7 +44,7 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 
 <summary>Github Stats</summary>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ajaynaidujami.vercel.app/api?username=AjayNaiduJami&show_icons=true&hide_border=true" />
+<img align="left" alt="AjayNaiduJami's Github Stats" src="https://github-readme-stats.ajaynaidujami.vercel.app/api?username=AjayNaiduJami&show_icons=true&hide_border=true" />
 
 
 [aws]: https://aws.amazon.com/
