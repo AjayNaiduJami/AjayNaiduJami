@@ -26,7 +26,8 @@
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
 <img align="left" alt="ELK" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" />
-<img align="left" alt="DataDog" width="26px" src="https://f0.pngfuel.com/png/657/105/datadog-docker-amazon-web-services-mortar-data-inc-others-png-clip-art.png" />
+<img align="left" alt="DataDog" width="26px" src="https://imgix.datadoghq.com/img/about/presskit/kit/press_kit.png" />
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/72/python.png" />
 <img align="left" alt="Powershell" width="26px" src="https://img.icons8.com/color/72/powershell.png" />
 <img align="left" alt="Bash" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />
