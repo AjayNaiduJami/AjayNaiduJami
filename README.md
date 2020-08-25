@@ -36,7 +36,7 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 
 ### Certifications and Badges:
 
-<a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" alt="aws-cert" width="80" height="80" /></a>
+<a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" alt="aws-cert" width="100" height="100" /></a>
 
 <br />
 
