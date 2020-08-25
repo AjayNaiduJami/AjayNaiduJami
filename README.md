@@ -39,7 +39,7 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 [<img align="left" alt="Cert" width="80px" src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" />][aws-cert]
 
 <br />
-<br />
+
 ---
 
 <summary>Github Stats</summary>
