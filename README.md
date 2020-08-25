@@ -33,8 +33,13 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 <img align="left" alt="VMware" width="26px" src="https://img.icons8.com/color/48/000000/old-vmware-logo.png" />
 
 <br />
-<br />
 
+### Certifications and Badges:
+
+[<img align="left" alt="Cert" width="80px" src="https://images.youracclaim.com/size/680x680/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png" />][aws-cert]
+
+<br />
+<br />
 ---
 
 <summary>Github Stats</summary>
@@ -49,3 +54,4 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 [facebook]: https://facebook.com/ajaynaidu.j
 [instagram]: https://instagram.com/ajay_naidu_j
 [linkedin]: https://linkedin.com/in/ajaynaiduj
+[aws-cert]: https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url
