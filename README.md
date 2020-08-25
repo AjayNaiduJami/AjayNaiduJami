@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Myself **Ajay Jami** I am presently working as Sr. Systems Engineer/DevOps Engineer in [TechVedika][job] My major activities are on a CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like [AWS][aws] and [Azure][azure]. I certified in AWS Solutions Architect - Associate and has an experience as System Administrator
+Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Engineer** in **[TechVedika][job]**. My daily activities are on a CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like **[AWS][aws]** and **[Azure][azure]**. I certified in AWS Solutions Architect - Associate and has an experience as **System Administrator**
 
 
 ### Connect with me:
@@ -36,6 +36,14 @@ Myself **Ajay Jami** I am presently working as Sr. Systems Engineer/DevOps Engin
 <br />
 
 ---
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<summary>Github Stats</summary>
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ajaynaidujami.vercel.app/api?username=AjayNaiduJami&show_icons=true&hide_border=true" />
+
 
 [aws]: https://aws.amazon.com/
 [azure]: https://portal.azure.com/
