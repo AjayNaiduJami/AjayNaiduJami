@@ -37,11 +37,6 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 
 ---
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-
 <summary>Github Stats</summary>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ajaynaidujami.vercel.app/api?username=AjayNaiduJami&show_icons=true&hide_border=true" />
