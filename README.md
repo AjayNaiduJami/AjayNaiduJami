@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Engineer** in **[TechVedika][job]**. My daily activities are on a CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like **[AWS][aws]** and **[Azure][azure]**. I certified in AWS Solutions Architect - Associate and has an experience as **System Administrator**
+**Ajay Jami** here, I am a **Sr. Systems Engineer/DevOps Engineer** in **[TechVedika][job]**. Having fun with CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like **[AWS][aws]**, **[Azure][azure]** and **[GCP][gcp]**.
+<br />
+For getting the things done, I do have an experience as **System Administrator** :wink:
 
 
 ### Connect with me:
@@ -37,6 +39,7 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 ### Certifications and Badges:
 
 <a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://images.youracclaim.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Solution Architech Associate" width="100" height="100" /></a>
+<a href="https://www.youracclaim.com/badges/25f6a465-b4d1-4c85-a5bc-8503702940e0/public_url" target="_blank"><img src="https://images.youracclaim.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="100" height="100" align="left" /></a>
 
 <br />
 
@@ -49,6 +52,7 @@ Myself **Ajay Jami** I am presently working as **Sr. Systems Engineer/DevOps Eng
 
 [aws]: https://aws.amazon.com/
 [azure]: https://portal.azure.com/
+[gcp]: https://console.cloud.google.com/
 [job]: https://www.techvedika.com/
 [twitter]: https://twitter.com/AjayNaidu_J
 [facebook]: https://facebook.com/ajaynaidu.j
