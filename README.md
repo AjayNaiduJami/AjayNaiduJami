@@ -36,6 +36,7 @@ For getting the things done, I do have an experience as **System Administrator**
 
 <br />
 
+
 ### Certifications and Badges:
 
 <a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://images.youracclaim.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Solution Architech Associate" width="100" height="100" /></a>
