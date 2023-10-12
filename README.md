@@ -36,6 +36,7 @@ For getting things done, I do have experience as **System Administrator** :wink:
 
 <br />
 
+---
 
 ### Certifications and Badges:
 
@@ -43,8 +44,6 @@ For getting things done, I do have experience as **System Administrator** :wink:
 <a href="https://www.youracclaim.com/badges/25f6a465-b4d1-4c85-a5bc-8503702940e0/public_url" target="_blank"><img src="https://images.youracclaim.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="100" height="100" align="left" /></a>
 
 <br />
-
----
 
 [aws]: https://aws.amazon.com/
 [azure]: https://portal.azure.com/
