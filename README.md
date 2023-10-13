@@ -29,7 +29,6 @@ For getting things done, I do have experience as **System Administrator** :wink:
 <img align="left" alt="Powershell" width="26px" src="https://img.icons8.com/color/72/powershell.png" />
 <img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png" />
 <img align="left" alt="GIT" width="26px" src="https://img.icons8.com/color/48/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-filled/50/github.png" />
 <img align="left" alt="GitLab" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://img.icons8.com/color/48/jenkins.png" />
 <img align="left" alt="VMware" width="26px" src="https://img.icons8.com/color/48/vmware.png" />
