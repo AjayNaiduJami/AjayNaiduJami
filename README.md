@@ -39,8 +39,9 @@ For getting things done, I do have experience as **System Administrator** :wink:
 
 ### Certifications and Badges:
 
+<a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png" alt="AWS Solution Architect Professional" width="100" height="100"  align="left" /></a>
 <a href="https://www.youracclaim.com/badges/8d73c75f-a5ac-422b-a8fd-164b2dc91c2c/public_url" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Solution Architect Associate" width="100" height="100" /></a>
-<a href="https://www.youracclaim.com/badges/25f6a465-b4d1-4c85-a5bc-8503702940e0/public_url" target="_blank"><img src="https://images.youracclaim.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="100" height="100" align="left" /></a>
+<a href="https://www.youracclaim.com/badges/25f6a465-b4d1-4c85-a5bc-8503702940e0/public_url" target="_blank"><img src="https://images.youracclaim.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="100" height="100" /></a>
 
 <br />
 
