@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Ajay Jami** here, I am a **Lead DevOps Engineer** in **[TechMojo][job]**. Having fun with CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like **[AWS][aws]**, **[Azure][azure]** and **[GCP][gcp]**.
+**Ajay Jami** here, I am a **Lead Systems Engineer** in **[EPAM Systems][job]**. Having fun with CI/CD solutions and Infrastructure Architect for applications in major cloud platforms like **[AWS][aws]**, **[Azure][azure]** and **[GCP][gcp]**.
 <br />
 For getting things done, I do have experience as **System Administrator** :wink:
 
@@ -49,7 +49,7 @@ For getting things done, I do have experience as **System Administrator** :wink:
 [aws]: https://aws.amazon.com/
 [azure]: https://portal.azure.com/
 [gcp]: https://console.cloud.google.com/
-[job]: https://www.techmojo.com/
+[job]: https://welcome.epam.in/
 [twitter]: https://twitter.com/AjayNaidu_J
 [facebook]: https://facebook.com/ajaynaidu.j
 [instagram]: https://instagram.com/ajay_naidu_j
