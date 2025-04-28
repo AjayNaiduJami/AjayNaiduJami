@@ -10,6 +10,10 @@ For getting things done, I do have experience as **System Administrator** :wink:
     <img alt="AjayNaiduJami | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/Hungry_Cheetah-96/" target="_blank">
+    <img alt="AjayNaiduJami | Reddit" width="18px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-social-news-aggregation-web-content-rating-and-discussion-website-logo-color-tal-revivo.png" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/AjayNaidu_J" target="_blank">
     <img alt="AjayNaiduJami | Twitter" width="22px" src="https://img.icons8.com/ios/50/twitterx--v2.png" />
   </a>
